@@ -1,6 +1,7 @@
-# Output images
+# Loose output images (organized copies live in outputs/)
 output_*.png
 edit_example_input.png
+output_nf4_allfp32.png
 
 # Python
 __pycache__/
